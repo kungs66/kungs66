@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with give me a coffee <br>🌱 I’m currently learning back-end technologies
+Hello I’m a website developer, i focused on NextJs Framework <br>🤝 I’m looking for help with give me a coffee <br>🌱 I’m currently learning back-end technologies
 
 
 ## 🌐 Socials:
