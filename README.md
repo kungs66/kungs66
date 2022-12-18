@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I’m a website developer, i focused on NextJs Framework <br>🤝 I’m looking for help with give me a coffee <br>🌱 I’m currently learning back-end technologies
+Hi, I'm Kungs A Front-End Web Developer, I'm foucused on building responsive front-end web application while learning back-end technologies. <br>🤝 I’m looking for help with give me a coffee <br>🌱 I’m currently learning back-end technologies
 
 
 ## 🌐 Socials:
